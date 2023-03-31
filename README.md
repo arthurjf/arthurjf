@@ -8,7 +8,7 @@ Sou um **desenvolvedor Android Nativo** apaixonado por programação desde 2014,
 
 ## 🌱 Habilidades
 
-<a>Clean Code</a> || <a>Kotlin</a> || <a>MVVM</a> || <a>MVC</a> || <a>Scrum</a> || <a>Git</a> || <a>Visual Studio</a> || <a>Material Design</a>
+<a href="https://github.com/arthurjf/">Clean Code</a> || <a href="https://github.com/arthurjf/">Kotlin</a> || <a href="https://github.com/arthurjf/">MVVM</a> || <a href="https://github.com/arthurjf/">MVC</a> || <a href="https://github.com/arthurjf/">Scrum</a> || <a href="https://github.com/arthurjf/">Git</a> || <a href="https://github.com/arthurjf/">Visual Studio</a> || <a>Material Design</a>
 
 ## 📫 Contato
 
