@@ -8,28 +8,7 @@ Sou um **desenvolvedor Android Nativo** apaixonado por programação desde 2014,
 
 ## 🌱 Habilidades
 
-- Clean Code</button>
-- Kotlin</button>
-- MVVM</button>
-- MVC</button>
-- Scrum</button>
-- Git</button>
-- Visual Studio</button>
-- Material Design</button>
-
----
-
-## 🔭 Hobby
-
-No meu tempo livre, gosto de aprender novas habilidades em áreas relacionadas ao desenvolvimento digital, como a criação de jogos digitais utilizando as ferramentas:
-- Unity (motor de jogos)
-- Blender
-- Adobe Photoshop
-- Adobe Illustrator
-- Substance Designer
-- Substance Painter
-
----
+<a>Clean Code</a> || <a>Kotlin</a> || <a>MVVM</a> || <a>MVC</a> || <a>Scrum</a> || <a>Git</a> || <a>Visual Studio</a> || <a>Material Design</a>
 
 ## 📫 Contato
 
