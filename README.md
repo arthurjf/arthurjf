@@ -2,7 +2,7 @@
 
 🇧🇷
 
-Sou um **desenvolvedor Android Nativo** apaixonado por programação desde 2014, quando descobri a linguagem Java enquanto jogava Minecraft. Desde então, tenho me dedicado a aprimorar minhas habilidades em desenvolvimento Android e a me qualificar profissionalmente. Atualmente, estou **cursando Tecnologia em Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Goiás (IFG)** e procuro novas oportunidades para aplicar meus conhecimentos e habilidades.
+<p align="justify"> Sou um **desenvolvedor Android Nativo** apaixonado por programação desde 2014, quando descobri a linguagem Java enquanto jogava Minecraft. Desde então, tenho me dedicado a aprimorar minhas habilidades em desenvolvimento Android e a me qualificar profissionalmente. Atualmente, estou **cursando Tecnologia em Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Goiás (IFG)** e procuro novas oportunidades para aplicar meus conhecimentos e habilidades.</p>
 
 ![](https://komarev.com/ghpvc/?username=arthurjf)
 
