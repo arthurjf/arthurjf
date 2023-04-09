@@ -1,4 +1,4 @@
-# Olá mundo 👋, meu nome é Arthur �
+# Olá mundo 👋, meu nome é Arthur
 
 🇧🇷
 
