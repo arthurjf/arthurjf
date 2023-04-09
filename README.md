@@ -6,7 +6,7 @@
 
 ## 🌱 Habilidades
 
-<a href="https://github.com/arthurjf/">Clean Code</a> || <a href="https://github.com/arthurjf/">Kotlin</a> || <a href="https://github.com/arthurjf/">MVVM</a> || <a href="https://github.com/arthurjf/">MVC</a> || <a href="https://github.com/arthurjf/">Scrum</a> || <a href="https://github.com/arthurjf/">Git</a> || <a href="https://github.com/arthurjf/">Visual Studio</a> || <a href="https://github.com/arthurjf/">Material Design</a>
+<a href="https://github.com/arthurjf/">Clean Code</a> || <a href="https://github.com/arthurjf/">Kotlin</a> || <a href="https://github.com/arthurjf/">MVVM</a> || <a href="https://github.com/arthurjf/">MVC</a> || <a href="https://github.com/arthurjf/">Scrum</a> || <a href="https://github.com/arthurjf/">Git</a> || <a href="https://github.com/arthurjf/">Android Studio</a> || <a href="https://github.com/arthurjf/">Material Design</a>
 
 ## 📫 Contato
 
