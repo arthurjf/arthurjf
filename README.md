@@ -4,12 +4,6 @@
 
 <p align="justify">Desenvolvedor apaixonado por programação desde 2014. Conclusão em breve do curso de Tecnologia em Análise e Desenvolvimento de Sistemas, adquirindo uma sólida base em desenvolvimento de software.
 
-Durante minha jornada acadêmica, aprimorei minhas habilidades em Java, C# e Python, além de tecnologias web como HTML, CSS e JavaScript. Tenho experiência prática no desenvolvimento de aplicativos Android usando Android Studio e Kotlin.
-
-Estou animado para aplicar meu conhecimento em um ambiente profissional, sendo um profissional comprometido, capaz de trabalhar em equipe para atingir objetivos comuns e encontrar soluções criativas para os desafios que surgem.
-
-Procuro minha primeira oportunidade como desenvolvedor, onde poderei utilizar minhas habilidades técnicas e paixão pela programação para alcançar resultados significativos em projetos de sucesso.</p>
-
 ## 🌱 Habilidades
 
 <a href="https://www.google.com/search?q=c%C3%B3digo+limpo&client=firefox-b-d&sxsrf=APwXEdffEXOkg-fpwBO-fGLi-kVzUwTqag%3A1683369867057&ei=iy9WZNmQA9jn1sQPvouLmAo&gs_ssp=eJzj4tLP1Tcwi7e0zMozYPTiTT68OSUzPV8hJzO3IB8AdEwJNA&oq=C%C3%B3digo+Limp&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUILhCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDITCC4QgAQQlwUQ3AQQ3gQQ4AQYAToHCCMQsAMQJzoKCAAQRxDWBBCwAzoECCMQJzoHCCMQigUQJzoHCC4QigUQQzoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOgsILhCABBCxAxCDAToHCAAQigUQQzoICAAQgAQQsQM6FQguEIoFEEMQlwUQ3AQQ3gQQ4AQYAToLCAAQgAQQsQMQyQNKBAhBGABQjwJYyBJgxxpoAnABeACAAYABiAGMC5IBBDAuMTKYAQCgAQHIAQrAAQHaAQYIARABGBQ&sclient=gws-wiz-serp">Clean Code</a> • <a href="https://kotlinlang.org/">Kotlin</a> • <a href="https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm">MVVM</a> • <a href="https://learn.microsoft.com/pt-br/aspnet/mvc/">MVC</a> • <a href="https://www.scrum.org/">Scrum</a> • <a href="https://git-scm.com/">Git</a> • <a href="https://developer.android.com/studio">Android Studio</a> • <a href="https://m3.material.io/">Material Design</a>
