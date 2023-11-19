@@ -17,21 +17,6 @@
 
 ## 📫 Contact
 
-<ul>
-    <li>
-        <a href="mailto:arthurjose.dev@gmail.com" data-bs-toggle="tooltip" data-bs-placement="top"
-            title="arthurjose.dev@gmail.com">
-            ![Instagram]()
-        </a>
-    </li>
-    <li><a href="https://www.linkedin.com/in/arthur-jos%C3%A9-fernandes-048a26226/"
-            target="_blank">Email</a></li>
-    <li><a href="https://github.com/arthurjf/" target="_blank">Github</a></li>
-    <li><a href="https://www.instagram.com/arthur_jfernandes/" target="_blank">[]</a></li>
-    <li><a href="https://twitter.com/arthur_jf" target="_blank"></a>
-    </li>
-</ul>
-
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurjose.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-jos%C3%A9-fernandes-048a26226/)
 [![Instagram](https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_jfernandes/)
