@@ -2,6 +2,8 @@
 
 <p align="justify">A game developer from Brazil. Fluent in Portuguese and with an C1 Advanced level of English proficiency, I specialize in Indie game development with 3 years of experience using the Unity game engine. Additionally, I have advanced skills in C#, proficiency in modeling and texturing using Blender, and a solid understanding of shader programming.</p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://arthurjf.com.br/)
+
 ## Skills
 
 |                                                                                                                                 |                                 | Proficiency  |
