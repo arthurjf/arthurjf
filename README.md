@@ -10,7 +10,7 @@ You can check my personal portfolio website to check my work
 
 [![Portfolio](https://img.shields.io/badge/🔗_View_Portfolio-%2300599C?style=for-the-badge&logoColor=white)](https://arthurjf.com.br/)
 
-![Showcase Gif](showcase.gif)
+![Showcase Gif](showcase.gif){width="100%"}
 
 ## badges
 
@@ -18,16 +18,7 @@ You can check my personal portfolio website to check my work
 
 ## Skills
 
-|                                                                                                                                 |                                 |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
-|            ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)            |              Unity              |
-|             ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)             |               C#                |
-|         ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)         | Blender (3D Texturing/Modeling) |
-|               ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)               |               Git               |
-|             ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)              |             Python              |
-| ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) |          Unreal Engine          |
-|             ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)             |       C++ (Unreal Engine)       |
-|                  ![C++](https://img.shields.io/badge/Scrum-%2300599C.svg?style=for-the-badge&logoColor=white)                   |              Scrum              |
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/Scrum-%2300599C.svg?style=for-the-badge&logoColor=white)
 
 ## 📫 Contact
 
