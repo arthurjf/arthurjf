@@ -10,11 +10,17 @@
 
 You can check my personal portfolio website to check my work
 
-<a href="https://arthurjf.com.br/"><img src="https://img.shields.io/badge/🔗_View_Portfolio-%2300599C?style=for-the-badge&logoColor=white&color=681aad" height="40"></img></a>
-
 <p align="center">
 <img src="showcase.gif" width="100%">
 </p>
+
+<div align="center">
+<a href="https://arthurjf.com.br/">
+  <img src="https://img.shields.io/badge/🔗_View_Portfolio-%2300599C?style=for-the-badge&logoColor=white&color=681aad" height="40" style="border-radius: 10px;">
+</a>
+</div>
+
+## Badges
 
 ![Unity Junior Programmer](unity-junior-programmer.png)
 
