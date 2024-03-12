@@ -6,9 +6,15 @@
 
 ## My Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300599C?style=for-the-badge&logoColor=white)](https://arthurjf.com.br/)
+You can check my personal portfolio website to check my work
+
+[![Portfolio](https://img.shields.io/badge/🔗_View_Portfolio-%2300599C?style=for-the-badge&logoColor=white)](https://arthurjf.com.br/)
 
 ![Showcase Gif](showcase.gif)
+
+## badges
+
+![Unity Junior Programmer](unity-junior-programmer.png)
 
 ## Skills
 
