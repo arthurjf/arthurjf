@@ -22,7 +22,10 @@ You can check my personal portfolio website to check my work
 
 ## Badges
 
-![Unity Junior Programmer](unity-junior-programmer.png)
+<a href="https://www.credly.com/badges/f2f9bd3d-8b5f-44f8-adc9-dc410c1a62d2/public_url">
+  <img src="unity-junior-programmer.png" alt="Unity Junior Programmer">
+</a>
+
 
 ## 📫 Contact
 
