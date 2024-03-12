@@ -10,7 +10,7 @@ You can check my personal portfolio website to check my work
 
 [![Portfolio](https://img.shields.io/badge/🔗_View_Portfolio-%2300599C?style=for-the-badge&logoColor=white)](https://arthurjf.com.br/)
 
-![Showcase Gif](showcase.gif){width="100%"}
+![Showcase Gif](showcase.gif)
 
 ## badges
 
