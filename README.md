@@ -11,7 +11,7 @@
 You can check my personal portfolio website to check my work
 
 <p align="center">
-<img src="showcase.gif" width="100%">
+<img src="showcase.webp" width="100%">
 </p>
 
 <div align="center">
